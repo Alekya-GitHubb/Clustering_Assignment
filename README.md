@@ -202,7 +202,7 @@ Outlier score distributions (PyOD)
 |:--:|:--|:--|
 | 1 | **Audio embeddings using imagebind llms** | [Open Colab 1](https://colab.research.google.com/drive/1873XuVYmKOK4qj7-hhamhaPgLIvXsufC?usp=sharing) |
 | 2| **K-Means clustering ** | [Open Colab 2](https://colab.research.google.com/drive/1oPAJPdnrl6BfpiWINUpBb9q92tpnaqGz?usp=sharing) |
-| 3 | **Hierarchical clustering * | [Open Colab 3](https://colab.research.google.com/drive/1Gz2LXW_C_uQVneS1JDupQTihsq0eD7AL?usp=sharing |
+| 3 | **Hierarchical clustering * | [Open Colab 3](https://colab.research.google.com/drive/1Gz2LXW_C_uQVneS1JDupQTihsq0eD7AL?usp=sharing) |
 | 4 | **Gaussian mixture models clustering  * | [Open Colab 4](https://colab.research.google.com/drive/1vXnEHpRsQ2ZYdqTkMBdO9ZWm6BuRQmfX?usp=sharing) |
 | 5 | **DB Scan clustering * | [Open Colab 5](https://colab.research.google.com/drive/182g1JgWhQVV02LGMnWxzsIKIXOlB4UtR?usp=sharing) |
 | 6 | **Anomaly detection * | [Open Colab 6](https://colab.research.google.com/drive/1K3m0if4Tkrzr_8nVCKw5tEWHI7YRmj7y?usp=sharing) |
